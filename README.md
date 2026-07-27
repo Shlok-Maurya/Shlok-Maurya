@@ -1,6 +1,7 @@
 <div align="center">
 
 # About Me
+<hr>
 Transforming complex logic into seamless digital experiences.
 Armed with **Python**, **C++**, and a passion for scalable software architecture, I love engineering optimized algorithms and building real-time competitive arenas. Whether I am conceptualizing AI-driven ecosystems or diving deep into system design, I am always brewing new ideas one commit at a time.
 
@@ -11,6 +12,7 @@ Armed with **Python**, **C++**, and a passion for scalable software architecture
 
 </div>
 
+---
 
 <div align="center">
 
@@ -19,6 +21,8 @@ Armed with **Python**, **C++**, and a passion for scalable software architecture
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=py,cpp,js,html,css,react,redux,tailwind,vite,django,fastapi,flask,mongo,mysql,postgres,redis,tensorflow,pytorch,sklearn,docker,babel,npm,figma,arduino,notion&perline=13" alt="Shlok's Core Tech Stack" />
 </a>
+  
+<br><br>
  
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
@@ -30,6 +34,8 @@ Armed with **Python**, **C++**, and a passion for scalable software architecture
 </div>
 
 <br>
+
+---
 
 <div align="center">
 <br>
