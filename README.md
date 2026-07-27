@@ -1,6 +1,6 @@
 <div align="center">
 
-# About Me
+# ✋😃 Hi there, I'm Shlok Maurya
 Transforming complex logic into seamless digital experiences.
 Armed with **Python**, **C++**, and a passion for scalable software architecture, I love engineering optimized algorithms and building real-time competitive arenas. Whether I am conceptualizing AI-driven ecosystems or diving deep into system design, I am always brewing new ideas one commit at a time.
 </div>
@@ -10,7 +10,7 @@ Armed with **Python**, **C++**, and a passion for scalable software architecture
 # **👨🏻‍💻 My Tech Arena**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,cpp,js,html,css,react,redux,tailwind,vite,django,fastapi,flask,mongo,mysql,postgres,redis,tensorflow,pytorch,sklearn,docker,babel,npm,figma,arduino,notion&perline=13" alt="Shlok's Core Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,js,html,css,react,redux,tailwind,vite,django,fastapi,flask,mongo,mysql,postgres,redis,tensorflow,pytorch,sklearn,docker,babel,npm,figma,arduino,github,notion&perline=13" alt="Shlok's Core Tech Stack" />
 </a>
 
 
