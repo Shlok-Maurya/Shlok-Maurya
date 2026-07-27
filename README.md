@@ -5,8 +5,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Software+Architect;Algorithm+Enthusiast;Building+Etalyst+AI;Engineering+DevDuel" alt="Typing SVG" /></a>
 
-> *Transforming complex logic into seamless digital experiences.*
-
 ### 📡 Establish Connection
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shlok-maurya)
