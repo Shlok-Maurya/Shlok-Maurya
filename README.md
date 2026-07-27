@@ -1,6 +1,6 @@
 <div align="center">
 
-#  About Me
+# About Me
 Transforming complex logic into seamless digital experiences.
 Armed with **Python**, **C++**, and a passion for scalable software architecture, I love engineering optimized algorithms and building real-time competitive arenas. Whether I am conceptualizing AI-driven ecosystems or diving deep into system design, I am always brewing new ideas one commit at a time.
 
@@ -10,23 +10,27 @@ Armed with **Python**, **C++**, and a passion for scalable software architecture
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shlokmaurya211@gmail.com)
 
 </div>
-## 👨🏻‍💻 My Tech Arena
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,js,html,css,react,redux,tailwind,vite,django,fastapi,flask,mongo,mysql,postgres,redis,tensorflow,pytorch,sklearn,docker,babel,npm,figma,arduino,notion&perline=13" alt="Shlok's Core Tech Stack" />
-  </a>
-  
-  <br><br>
- 
-  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-  ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) 
-  ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) 
-  ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-</div>
-<br>
 
+<div align="center">
+
+## **👨🏻‍💻 My Tech Arena**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,cpp,js,html,css,react,redux,tailwind,vite,django,fastapi,flask,mongo,mysql,postgres,redis,tensorflow,pytorch,sklearn,docker,babel,npm,figma,arduino,notion&perline=13" alt="Shlok's Core Tech Stack" />
+</a>
+  
+<br><br>
+ 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) 
+![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) 
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+</div>
+
+<br>
 
 ---
 
