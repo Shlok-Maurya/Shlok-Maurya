@@ -11,7 +11,6 @@ Armed with **Python**, **C++**, and a passion for scalable software architecture
 
 </div>
 
----
 
 <div align="center">
 
@@ -31,8 +30,6 @@ Armed with **Python**, **C++**, and a passion for scalable software architecture
 </div>
 
 <br>
-
----
 
 <div align="center">
 <br>
