@@ -11,16 +11,11 @@
 </div>
 
 ### 💻 Tech Stack
-
-
  <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cpp,js,html,css,react,redux,tailwind,vite,django,fastapi,flask,mongo,mysql,postgres,redis,tensorflow,pytorch,sklearn,docker,babel,npm,figma,arduino,notion&perline=13" alt="Shlok's Core Tech Stack" />
   </a>
-  
-  <br><br>
-  
-  **Data Science & Specialized UI**<br>
+  <br>
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
