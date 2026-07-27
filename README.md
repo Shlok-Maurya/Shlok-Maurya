@@ -39,6 +39,5 @@ Armed with **Python**, **C++**, and a passion for scalable software architecture
 <br>
 
 <div align="center">
-<br>
 <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=Shlok-Maurya&icon=0&color=00FF9D&style=flat-square&label=Profile+Views" alt="Profile Views"></a>
 </div>
