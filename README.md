@@ -7,6 +7,8 @@ Armed with **Python**, **C++**, and a passion for scalable software architecture
 
 <div align="center">
 
+<br>
+
 # **👨🏻‍💻 My Tech Arena**
 
 <a href="https://skillicons.dev">
