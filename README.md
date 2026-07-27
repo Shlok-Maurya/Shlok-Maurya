@@ -1,9 +1,10 @@
 <div align="center">
 
-# 💫 About Me
-**Hey, I am Shlok Maurya, currently pursuing my MCA from VJTI.**
+#  About Me
+Transforming complex logic into seamless digital experiences.
+Armed with **Python**, **C++**, and a passion for scalable software architecture, I love engineering optimized algorithms and building real-time competitive arenas. Whether I am conceptualizing AI-driven ecosystems or diving deep into system design, I am always brewing new ideas one commit at a time.
 
-### 📡 Establish Connection
+### 👨🏻‍💻 Establish Connection
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shlok-maurya)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shlokmaurya211@gmail.com)
