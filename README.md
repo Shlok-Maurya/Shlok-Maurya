@@ -14,15 +14,6 @@
 
 </div>
 
----
-
-### 🚀 Mission Control
-*   🤺 **Currently engineering:** **DevDuel**, a 1v1 real-time competitive coding arena.
-*   🧠 **Building & Innovating:** The core architecture for **Etalyst AI**.
-*   ⚙️ **Focus Areas:** Highly optimized C++/Python algorithms, real-time WebSockets, and scalable backend ecosystems.
-
-<br>
-
 ### 💻 Tech Stack
 Instead of scrolling through badges, here is my unified tech grid:
 
@@ -36,14 +27,6 @@ Instead of scrolling through badges, here is my unified tech grid:
 
 <br>
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Shlok-Maurya&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://streak-stats.demolab.com/?user=Shlok-Maurya&theme=one_dark_pro&hide_border=false" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Shlok-Maurya&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-</div>
 
 ---
 
