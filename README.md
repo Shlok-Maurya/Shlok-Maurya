@@ -19,7 +19,7 @@ Armed with **Python**, **C++**, and a passion for scalable software architecture
   <img src="https://skillicons.dev/icons?i=py,cpp,js,html,css,react,redux,tailwind,vite,django,fastapi,flask,mongo,mysql,postgres,redis,tensorflow,pytorch,sklearn,docker,babel,npm,figma,arduino,notion&perline=13" alt="Shlok's Core Tech Stack" />
 </a>
   
-<br><br>
+<br>
  
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
